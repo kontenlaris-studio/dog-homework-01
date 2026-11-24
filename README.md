@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="dog-homework-01 logo">
+
+**The dog ate my homework — funniest excuse.**
+
+[![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&logo=python&labelColor=FF7A00&color=0A1931)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)](LICENSE)
+[![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)](https://github.com/kontenlaris-studio)
+
+</div>
+
 # dog-homework-01
 
 [![make.fun · u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c.svg)](https://make.fun/bounty/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c)
